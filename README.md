@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bigbiz73/bigbiz73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# My Profile
+
+## Private Info
+- Name : Chang Hun, Lee
+- Birth Year : 1973
+- Gender : Male
+- Nation : South Korea of Republic
+- City : Seoul
+- Email : bigbiz851@gmail.com<br>
+![bigbiz](./profile.png)
+
+## Things I like
+- Travel
+- Car Camping
+- Cooking
+- Trekking
+- Healing in Nature
+- Sleeping
+- Lying on the sofa
+- Wine
+- A cup of coffee in the morning
+
+## Work Experience
+
+### Current Company
+- Hankook Mornitoring
+- Joined in 2005
+
+#### Field of work
+- Software development and system maintenance
