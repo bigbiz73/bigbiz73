@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - Nation : South Korea of Republic
 - City : Seoul
 - Email : bigbiz851@gmail.com<br>
-![bigbiz](./profile.png)
 
 ## Things I like
 - Travel
